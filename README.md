@@ -78,3 +78,9 @@ Unity C# Project
 ### 결과 
 
 [GooglePlayStoreLink](https://play.google.com/store/apps/details?id=com.VTCompany.Knight_Rush&pcampaignid=web_share)
+
+
+### 참고
+
+사운드 에셋 : [Link](https://charlie-watkins.com/) <br/>
+폰트 : [Link](https://maplestory.nexon.com/Media/Font)
