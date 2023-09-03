@@ -77,8 +77,9 @@ Unity C# Project
 
 ### 결과 
 
-[GooglePlayStoreLink](https://play.google.com/store/apps/details?id=com.VTCompany.Knight_Rush&pcampaignid=web_share)
-
+[GooglePlayStoreLink](https://play.google.com/store/apps/details?id=com.VTCompany.Knight_Rush&pcampaignid=web_share) <br/><br/>
+<img src="https://github.com/SuhYC/Knight_Rush/blob/main/KakaoTalk_20230817_170227612_02.jpg" width="500"><br/>
+플레이 사진<br/><br/>
 
 ### 참고
 
