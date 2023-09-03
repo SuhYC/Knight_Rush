@@ -66,8 +66,8 @@ Unity C# Project
 ### ♟️Member
 서예찬(개발)|소다현(아트)|
 :-:|:-:|
-<img src="https://avatars.githubusercontent.com/u/33596116?v=4" width="200">|<img src="https://avatars.githubusercontent.com/u/33596116?v=4" width="200">|
-[Github](https://github.com/SuhYC)|[Blog](https://github.com/SuhYC)|
+<img src="https://avatars.githubusercontent.com/u/33596116?v=4" width="200">|추후 추가|
+[Github](https://github.com/SuhYC)|[Blog(추후 추가)](https://github.com/SuhYC)|
 
 ### ♟️Contribution
 - `서예찬` &nbsp; 기획 및 개발
