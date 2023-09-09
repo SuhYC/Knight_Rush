@@ -50,7 +50,7 @@ Unity C# Project
 
 **사용 기술 스택**<br/>
 - 클라이언트 : C# (Unity)<br/>
-- CI/CD : UnityVersionControl(구 PlasticSCM)<br/>
+- VCS : UnityVersionControl(구 PlasticSCM)<br/>
 
 **기대 효과 (AS-IS TO-BE)**
 
